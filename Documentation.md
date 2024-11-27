@@ -2,7 +2,7 @@ Documentation for Human Action Recognition Workflow
 This documentation outlines the setup, usage, and expected output for the Human Action Recognition Workflow built using Gradio and NVIDIA's Vision Language Model (VLM).
 
 Overview
-The application allows users to:
+
 
 Upload two videos (real and synthetic) for action recognition.
 Trim videos to ensure they are of similar lengths.
